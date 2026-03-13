@@ -13,4 +13,4 @@ This is a simple Python project to manage student records.
 Python
 
 ## Author
-Your Name
+Mahek Badeliya
